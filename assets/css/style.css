@@ -1,0 +1,15 @@
+body {
+font-family: 'Raleway', sans-serif;
+  background-image: url("../images/topography.png");
+  color: green;
+}
+
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+button {
+  color: blue;
+}

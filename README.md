@@ -1,1 +1,2 @@
-# GifTastic
+# TriviaGame
+A trivia game.
